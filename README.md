@@ -1,2 +1,2 @@
-# Tech-Club-Project - Conveyor Sorter
+# Tech Club Project - Conveyor Sorter
 My Tech Club Project
